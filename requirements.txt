@@ -1,0 +1,7 @@
+pyueye
+numpy
+opencv-python
+sys
+os
+datetime
+time
