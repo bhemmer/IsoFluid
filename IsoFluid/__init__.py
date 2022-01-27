@@ -1,3 +1,1 @@
-name = "simplepyueye"
-
-from .simplepyueye import Camera
+from .IsoFluid import Eval

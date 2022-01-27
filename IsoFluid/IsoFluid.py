@@ -33,7 +33,7 @@ re_float = r"[-+]?[0-9]*\.?[0-9]+(?:[eE][-+]?[0-9]+)?"
 re_data = r"(" + re_float + ")+?\s*(?:\;|\s*$)?"
 re_commafloat = r"[-+]?[0-9]*\,?[0-9]+(?:[eE][-+]?[0-9]+)?"
 
-class eval:
+class Eval:
     """
     This class is used to evaluate isotopy data taken from a Picarro Instrument.
 

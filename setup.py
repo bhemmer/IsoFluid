@@ -7,7 +7,7 @@ DISTNAME = 'IsoFluid'
 MAINTAINER = 'Benedikt Hemmer'
 MAINTAINER_EMAIL = 'benedikt.hemmer@iup.uni-heidelberg.de'
 URL = 'https://github.com/bhemmer/IsoFluid'
-LICENSE = 'BSD-3-Clause'
+LICENSE = 'GNU GPLv3'
 DOWNLOAD_URL = 'https://github.com/bhemmer/IsoFluid'
 VERSION = '1.0'
 
